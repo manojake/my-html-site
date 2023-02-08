@@ -1,0 +1,18 @@
+{
+  "name": "my-html-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-manojake:manojake/my-html-site.git"
+  },
+  "author": "Manosh Jacob",
+  "license": "ISC",
+  "devDependencies": {
+    "jslint": "^0.12.1"
+  }
+}
